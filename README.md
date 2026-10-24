@@ -37,9 +37,9 @@ This project uses Microsoft Power BI to analyze credit and debit transactions, t
 - DAX
 - Data Visualization
 
-## Project Files
-- `Dashboard/Credit_Debit_Transaction_Dashboard.pbix` — Power BI dashboard.
-- `Screenshots/Credit_Debit_Dashboard.png` — Dashboard preview.
+## 📊 Dashboard Preview
+
+![Credit & Debit Dashboard](./dashboard.png)
 
 ## How to Use
 1. Download the `.pbix` file from this repository.
