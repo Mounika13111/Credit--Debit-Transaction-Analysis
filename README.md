@@ -38,7 +38,7 @@ This project uses Microsoft Power BI to analyze credit and debit transactions, t
 - Data Visualization
 
 ### Interactive Dashboard
-[Click here to view the interactive dashboard](Credit & debit Dashboard power bi.png)
+https://drive.google.com/file/d/1W2iHiz6f1rAEKFiDkX0UApg0UaIF5xjD/view?usp=sharing
 
 ## Skills Demonstrated
 - KPI development
